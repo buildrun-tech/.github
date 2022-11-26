@@ -2,7 +2,7 @@
 
 ### 🏗️ Comunidade Build & Run
 
-Seja bem vindo a nossa comunidade, aqui iremos construir juntos projetos open-sources que irão deixar a comunidade Brasileira orgulhosa 💗 
+Seja bem vindo a nossa comunidade, aqui iremos construir juntos projetos open-source que irão deixar a comunidade Brasileira orgulhosa 💗 
 
 Teremos por aqui:
 
