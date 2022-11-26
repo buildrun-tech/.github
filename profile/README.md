@@ -15,4 +15,4 @@ Teremos por aqui:
 - [Instagram Build & Run](https://www.instagram.com/buildrun.tech/)
 - [Nosso email](mailto:buildrun.tech@gmail.com)
 
-Feit com 💗
+Feito com 💗
