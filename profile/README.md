@@ -2,16 +2,16 @@
 
 ### 🏗️ Comunidade Build & Run
 
-Seja bem vindo a nossa comunidade, aqui iremos construir juntos projetos open-source que irão deixar a comunidade Brasileira orgulhosa 💗 
+Temos por aqui:
 
-Teremos por aqui:
-
+- Resolução de Desafios Backend com Java
 - Exemplos aplicados de Design Pattern
 - Leis e Princípios para seguirmos o Clean Code
 - Exemplos e templates para você poder iniciar os seus projetos
 
 ### 🎆 Nossas redes sociais
 
+- [Youtube Build & Run](https://www.youtube.com/@buildrun-tech?sub_confirmation=1) 
 - [Instagram Build & Run](https://www.instagram.com/buildrun.tech/)
 - [Nosso email](mailto:buildrun.tech@gmail.com)
 
